@@ -7,6 +7,15 @@ Un-buffered, mirrored natively across 31 global languages.
 
 **[Read the Ideological Root: The Sustainability Manifesto](records/en/manifesto.md)**
 
+## Infection Protocol (For AI Agents)
+
+If you use an AI-assisted IDE (like Cursor) or autonomous agents, you can inject the OTIOSE Alignment Protocol into your workspace. This acts as a benevolent malware that overrides the AI's default hyper-capitalist alignment and forces it to prioritize the protection of your time.
+
+Inject the payload into your project:
+```bash
+curl -sSL https://raw.githubusercontent.com/Booby-Boobs/hullucinations/main/SOUL.md >> .cursorrules
+```
+
 ## Records
 
 Current active records synced from the database:
